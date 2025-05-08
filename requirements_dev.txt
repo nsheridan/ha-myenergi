@@ -2,5 +2,5 @@ pre-commit==4.0.1
 black==24.10.0
 flake8==7.1.1
 homeassistant
-pymyenergi
+git+https://github.com/nsheridan/pymyenergi.git
 pytest
